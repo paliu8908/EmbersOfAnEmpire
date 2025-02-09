@@ -1,0 +1,1 @@
+DealDamage(self, other);
